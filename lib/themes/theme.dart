@@ -98,5 +98,5 @@ class AppTheme {
         secondary: _accentColor,
         primaryContainer: _darkPrimaryVariantColor,
       ),
-      textTheme: _lightTextTheme);
+      textTheme: _darkTextTheme);
 }
